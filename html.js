@@ -227,6 +227,6 @@ document.getElementById("btn1").addEventListener('click', function () {
 
     }
     else{
-        alert("Opps!! ")
+        alert("ওই মাথামোটা ঠিকভাবে পূরণ কর")
     }
 });
